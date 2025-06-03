@@ -1,0 +1,18 @@
+<Planetarios class="html"></Planetarios>    PLANETARIOS
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Cartas Planetarios</title>
+</head>
+<body>
+  <h1>Cartas Planetarios</h1>
+  <p>Los planetarios son cartas escenciales para el juego , estas aumentan el porcentaje de puntaje por cada mano jugada ya sea par, doble par etc.</p>
+
+<img src="https://criticalhits.com.br/wp-content/uploads/2024/04/balatro-celestial-cards-696x319.jpg" height="400" width="850">
+
+
+  <li><a href="BALATROO.html">MENU</a></li>
+</body>
+</html>
